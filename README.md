@@ -1,5 +1,5 @@
-# ASCII Art
-Simple program which converts image to ascii art.
+# ASCII Art Converter (Image --> ASCII)
+A simple program that converts an image to ASCII art.
 
 ### How to run and build:
 
